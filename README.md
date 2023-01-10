@@ -1,7 +1,7 @@
 # Réalisation d'une étude de santé
 
 ## Mise en situation 
-> Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
+Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est particulièrement enthousiaste à l’idée de votre arrivée au sein de son équipe.  
 
 En effet, ce recrutement tombe à pic car Julien, l'ancien data analyst, a récemment été muté  
